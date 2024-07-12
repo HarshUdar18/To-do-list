@@ -1,9 +1,3 @@
-# To-do-list
-Built a responsive to-do list web app with HTML, CSS, and JS. Features include task management, local storage, and a user-friendly interface.
-Certainly! Here's a description for your to-do list web application project:
-
----
-
 ## To-Do List Web Application
 
 This project is a fully functional to-do list web application designed to streamline task management with a clean and intuitive interface. Built using HTML, CSS, and JavaScript, it offers essential features for creating, editing, deleting, and marking tasks as completed.
